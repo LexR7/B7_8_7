@@ -1,0 +1,1 @@
+docker run --mount type=bind,src=/Users/r_alexey/Docker/test/,dst=/home/test/ -e url=google.com alpwget
